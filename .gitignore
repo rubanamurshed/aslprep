@@ -1,0 +1,9 @@
+rawdata/
+rawdata_clean/
+derivatives/
+containers/
+results/matrices/
+*.sif
+*.nii
+*.nii.gz
+.DS_Store
