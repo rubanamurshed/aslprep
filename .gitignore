@@ -7,3 +7,5 @@ results/matrices/
 *.nii
 *.nii.gz
 .DS_Store
+demographics.csv
+config/demographics.csv
